@@ -3,6 +3,7 @@ Zemestan Multimedia Catalogue
 
 A digital multimedia catalogue written in ActionScript 1 and Macromedia Flash 5.0 with Microsoft Visual Basic 6.0 interoperability.
 
+**NOTE**: Due to GitHub's 100 MB limitation for each file I removed a file called 'store.fla' from this repo which is a necessity for this project to work. Fortunately, GitLab allow that and there is [a mirror for this project on GitLab](https://gitlab.com/NuLL3rr0r/zemestan-multimedia-catalogue) which has this file. Please check this project out from GitLab: [https://gitlab.com/NuLL3rr0r/zemestan-multimedia-catalogue](https://gitlab.com/NuLL3rr0r/zemestan-multimedia-catalogue)
 
 ## License
 
